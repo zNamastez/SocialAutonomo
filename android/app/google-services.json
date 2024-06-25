@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "141743611047",
+    "project_id": "socialautonomo-625e3",
+    "storage_bucket": "socialautonomo-625e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141743611047:android:56d79db36752ee79b08f82",
+        "android_client_info": {
+          "package_name": "com.socialautonomo.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYZZkoWCmzhQPDk_BczBbk5l7EfjFjyWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
